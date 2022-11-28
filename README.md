@@ -1,4 +1,5 @@
 # effect-tansition
+<a href="https://angosk.github.io/effect-tansition/">Página de la práctica</a>
 
 
 ![Captura de pantalla 2022-11-10 155502](https://user-images.githubusercontent.com/114034743/201214052-bdfbb55d-8377-476f-9bec-17b828c2c469.png)
